@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="config" type="Erlang Terms" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="bkp" type="PLAIN_TEXT" />
       <mapping ext="gnd" type="PLAIN_TEXT" />
